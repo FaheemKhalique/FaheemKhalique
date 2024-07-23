@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FaheemKhalique
-- 👀 I’m interested in Web Development , Open Source , DevOps , Cloud Computing
-- 🌱 I’m currently learning MERN stack
+- 🌱 Microsoft Learn Student Ambassador
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me? Twitter- twitter.com/FaheemKhalique , Linkedin- linkedin.com/in/faheem-manyar-86215b1ba
 
